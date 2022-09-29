@@ -1,2 +1,2 @@
-# aiquotes
-An automatic generation of quote-like sentence
+# AI Humor
+An automatic generation of onion-like headline.
